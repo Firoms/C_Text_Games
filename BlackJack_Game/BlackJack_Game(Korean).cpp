@@ -52,10 +52,10 @@ int main(void){
 
 	
 	gotoxy(28,2);
-	printf("*서바이벌 블랙젝 게임*");
+	printf("*서바이벌 블랙잭 게임*");
 	Sleep(3000);
 	gotoxy(10,5);
-	printf("서버이벌 블랙젝 게임을 시작합니다.");
+	printf("서버이벌 블랙잭 게임을 시작합니다.");
 	Sleep(2000);
 	gotoxy(10,7);
 	printf("얼마나 버틸 수 있는지 도전해보세요!");
@@ -89,13 +89,13 @@ int main(void){
 	printf("라운드마다 목표 점수가 있습니다.");
 	gotoxy(10,9);
 	Sleep(2000);
-	printf("블랙젝 게임의 숫자 합이 목표점수를 넘어야 통과입니다.");
+	printf("블랙잭 게임의 숫자 합이 목표점수를 넘어야 통과입니다.");
 	gotoxy(10,12);
 	Sleep(2000);
-	printf("블랙젝일 경우 숫자 25~50까지의 점수를 랜덤으로 받습니다.");
+	printf("블랙잭일 경우 숫자 25~50까지의 점수를 랜덤으로 받습니다.");
 	Sleep(2000);
 	gotoxy(10,15);
-	printf("블랙젝 숫자가 21을 넘을 시 bust, 0점이니 신중히 생각하세요.");
+	printf("블랙잭 숫자가 21을 넘을 시 bust, 0점이니 신중히 생각하세요.");
 	Sleep (5000);
 	gotoxy(0,5);
 	printf("      ▧                                                                  ▧\n");
@@ -146,7 +146,7 @@ int main(void){
 			srand((unsigned int) time(NULL));
 			bonusscore=rand()%25+25;
 			gotoxy(10,16);
-			printf("블랙젝이므로 %d(25~50)점을 획득합니다.",bonusscore);
+			printf("블랙잭이므로 %d(25~50)점을 획득합니다.",bonusscore);
 			plascore=plascore+bonusscore;
 			Sleep(2000);
 			break;
@@ -164,7 +164,7 @@ int main(void){
 			srand((unsigned int) time(NULL));
 			bonusscore=rand()%25+25;
 			gotoxy(10,16);
-			printf("블랙젝이므로 %d(25~50)점을 획득합니다.",bonusscore);
+			printf("블랙잭이므로 %d(25~50)점을 획득합니다.",bonusscore);
 			plascore=plascore+bonusscore;
 			Sleep(2000);
 			break;	
