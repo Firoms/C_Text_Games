@@ -33,16 +33,18 @@ C 언어를 기반으로 한 텍스트 게임(**서바이벌 블랙잭 게임 & 
       서바이벌 형태의 게임이기 때문에, 플레이어가 패배할 때까지 게임이 진행됩니다.   
       숫자가 잘못입력되면, 카드 그만 뽑기가 선택됩니다.   
 ### 실행 사진
-   <center>
-   <img src="https://user-images.githubusercontent.com/63716450/104713537-5c7ee480-5767-11eb-845e-f395440137fe.PNG"  width="" height="220"> 
-   <img src="https://user-images.githubusercontent.com/63716450/104716752-ac5faa80-576b-11eb-9a4e-6f0a30f5b458.PNG"  width="" height="220">   
-   <img src="https://user-images.githubusercontent.com/63716450/104716754-acf84100-576b-11eb-8bb2-fe6662e632bc.PNG"  width="" height="220">   
-   <img src="https://user-images.githubusercontent.com/63716450/104716756-ad90d780-576b-11eb-8bd4-258d6808e839.PNG"  width="" height="220"> 
-   <img src="https://user-images.githubusercontent.com/63716450/104716759-ad90d780-576b-11eb-9102-9334983bf79b.PNG"  width="" height="220">   
-   <img src="https://user-images.githubusercontent.com/63716450/104716760-ae296e00-576b-11eb-93c9-a60683aa558f.PNG"  width="" height="220">  
-   <img src="https://user-images.githubusercontent.com/63716450/104716761-ae296e00-576b-11eb-8677-7339393e621f.PNG"  width="" height="220"> 
-   <img src="https://user-images.githubusercontent.com/63716450/104716762-aec20480-576b-11eb-92cc-7f39fa420b16.PNG"  width="" height="220">   
-   </center>   
+
+<center>
+      <img src="https://user-images.githubusercontent.com/63716450/104713537-5c7ee480-5767-11eb-845e-f395440137fe.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104716752-ac5faa80-576b-11eb-9a4e-6f0a30f5b458.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104716754-acf84100-576b-11eb-8bb2-fe6662e632bc.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104716756-ad90d780-576b-11eb-8bd4-258d6808e839.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104716759-ad90d780-576b-11eb-9102-9334983bf79b.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104716760-ae296e00-576b-11eb-93c9-a60683aa558f.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104716761-ae296e00-576b-11eb-8677-7339393e621f.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104716762-aec20480-576b-11eb-92cc-7f39fa420b16.PNG"  width="300" height="220">
+</center>
+      
 
    ***
    
