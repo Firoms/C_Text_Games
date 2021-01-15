@@ -45,17 +45,6 @@ C 언어를 기반으로 한 텍스트 게임(**서바이벌 블랙잭 게임 & 
    <img src="https://user-images.githubusercontent.com/63716450/104716762-aec20480-576b-11eb-92cc-7f39fa420b16.PNG"  width="300" height="220">   
    </center>   
 
-=======
-라운드 별 목표점수는 2x(라운드)x(라운드)의 값으로 설정하였습니다.   
-서바이벌 형태의 게임이기 때문에, 플레이어가 패배할 때까지 게임이 진행됩니다.   
-숫자가 잘못입력되면, 카드 그만 뽑기가 선택됩니다.   
-### 실행 사진
-<img src="https://user-images.githubusercontent.com/63716450/104713537-5c7ee480-5767-11eb-845e-f395440137fe.PNG"  width="350" height="220">
-<img src="https://user-images.githubusercontent.com/63716450/104713537-5c7ee480-5767-11eb-845e-f395440137fe.PNG"  width="350" height="220">
-<img src="https://user-images.githubusercontent.com/63716450/104713537-5c7ee480-5767-11eb-845e-f395440137fe.PNG"  width="350" height="220">
-
-   
->>>>>>> 9c7bab0772929221cd4e0d02d4794b7cb4d15c63
    ***
    
    
