@@ -35,14 +35,10 @@ C 언어를 기반으로 한 텍스트 게임(**서바이벌 블랙잭 게임 & 
 ### 실행 사진
 
 <center>
-      <img src="https://user-images.githubusercontent.com/63716450/104713537-5c7ee480-5767-11eb-845e-f395440137fe.PNG"  width="300" height="220">
-      <img src="https://user-images.githubusercontent.com/63716450/104716752-ac5faa80-576b-11eb-9a4e-6f0a30f5b458.PNG"  width="300" height="220">
-      <img src="https://user-images.githubusercontent.com/63716450/104716754-acf84100-576b-11eb-8bb2-fe6662e632bc.PNG"  width="300" height="220">
-      <img src="https://user-images.githubusercontent.com/63716450/104716756-ad90d780-576b-11eb-8bd4-258d6808e839.PNG"  width="300" height="220">
-      <img src="https://user-images.githubusercontent.com/63716450/104716759-ad90d780-576b-11eb-9102-9334983bf79b.PNG"  width="300" height="220">
-      <img src="https://user-images.githubusercontent.com/63716450/104716760-ae296e00-576b-11eb-93c9-a60683aa558f.PNG"  width="300" height="220">
-      <img src="https://user-images.githubusercontent.com/63716450/104716761-ae296e00-576b-11eb-8677-7339393e621f.PNG"  width="300" height="220">
-      <img src="https://user-images.githubusercontent.com/63716450/104716762-aec20480-576b-11eb-92cc-7f39fa420b16.PNG"  width="300" height="220">
+      <img src="https://user-images.githubusercontent.com/63716450/104713537-5c7ee480-5767-11eb-845e-f395440137fe.PNG"  width="500" height="350">
+</center>
+<center>
+      <img src="https://user-images.githubusercontent.com/63716450/104716752-ac5faa80-576b-11eb-9a4e-6f0a30f5b458.PNG"  width="500" height="350">
 </center>
       
 
@@ -84,13 +80,9 @@ C 언어를 기반으로 한 텍스트 게임(**서바이벌 블랙잭 게임 & 
       1,2,3,4 이외의 다른 문자나 번호를 입력하게 되면, 다시 선택해 주세요라는 문구가 뜨지만,   
       숨겨진 코드로 제작 연도인 2017를 입력할 경우, 돈 30000원을 획득할 수 있습니다.   
 ### 실행 사진
-   <center>
-   <img src="https://user-images.githubusercontent.com/63716450/104717199-4c1d3880-576c-11eb-8dbe-f833db3b604a.PNG"  width="300" height="220"> 
-   <img src="https://user-images.githubusercontent.com/63716450/104717201-4cb5cf00-576c-11eb-8933-824c6bbf64c9.PNG"  width="300" height="220">   
-   <img src="https://user-images.githubusercontent.com/63716450/104717202-4d4e6580-576c-11eb-8c37-74aa2353fe9d.PNG"  width="300" height="220">   
-   <img src="https://user-images.githubusercontent.com/63716450/104717203-4d4e6580-576c-11eb-8cd8-23fd8ae8ef0f.PNG"  width="300" height="220"> 
-   <img src="https://user-images.githubusercontent.com/63716450/104717205-4de6fc00-576c-11eb-87cd-519a11ed09be.PNG"  width="300" height="220">   
-   <img src="https://user-images.githubusercontent.com/63716450/104717207-4de6fc00-576c-11eb-86fc-e5d004d5d7c5.PNG"  width="300" height="220">  
-   <img src="https://user-images.githubusercontent.com/63716450/104717211-4e7f9280-576c-11eb-8ca2-3b0331563d45.PNG"  width="300" height="220"> 
-   <img src="https://user-images.githubusercontent.com/63716450/104717215-4f182900-576c-11eb-99d8-ba77ebd9ec5c.PNG"  width="300" height="220">   
-   </center>  
+<center>
+      <img src="https://user-images.githubusercontent.com/63716450/104717199-4c1d3880-576c-11eb-8dbe-f833db3b604a.PNG"  width="500" height="350">
+</center>
+<center>
+      <img src="https://user-images.githubusercontent.com/63716450/104717201-4cb5cf00-576c-11eb-8933-824c6bbf64c9.PNG"  width="500" height="350">
+</center>
